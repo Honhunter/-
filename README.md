@@ -673,31 +673,5 @@ plugin_http_passwd = abc
 * Direct reverse proxy, like haproxy.
 * kubernetes ingress support.
 
-## Contributing
 
-Interested in getting involved? We would like to help you!
 
-* Take a look at our [issues list](https://github.com/fatedier/frp/issues) and consider sending a Pull Request to **dev branch**.
-* If you want to add a new feature, please create an issue first to describe the new feature, as well as the implementation approach. Once a proposal is accepted, create an implementation of the new features and submit it as a pull request.
-* Sorry for my poor english and improvement for this document is welcome even some typo fix.
-* If you have some wonderful ideas, send email to fatedier@gmail.com.
-
-**Note: We prefer you to give your advise in [issues](https://github.com/fatedier/frp/issues), so others with a same question can search it quickly and we don't need to answer them repeatly.**
-
-## Donation
-
-If frp help you a lot, you can support us by:
-
-frp QQ group: 606194980
-
-### AliPay
-
-![donation-alipay](/doc/pic/donate-alipay.png)
-
-### Wechat Pay
-
-![donation-wechatpay](/doc/pic/donate-wechatpay.png)
-
-### Paypal
-
-Donate money by [paypal](https://www.paypal.me/fatedier) to my account **fatedier@gmail.com**.
